@@ -1,7 +1,12 @@
 # students_restapi
 Students Rest API
 
-Adding web hooks to the Rest API
+Web hooks for the Rest API
 
-More
+GET http://localhost:3000/students
+
+GET http://localhost:3000/students/?id=<id>
+
+POST http://localhost:3000/students BODY {"name":"<name>"}
+
 
